@@ -1,6 +1,4 @@
-** Behavioral Cloning **
-
----
+# Behavioral Cloning
 
 **Behavrioal Cloning Project**
 
