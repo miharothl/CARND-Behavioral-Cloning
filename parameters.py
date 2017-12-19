@@ -11,28 +11,28 @@ def reduce_data_randomly(from_label, to_label, filter):
     return dis
 
 
-PATH_TO_DATA41 = '/data/self-driving-car/course/project3/data/data41/'
-PATH_TO_DATA42 = '/data/self-driving-car/course/project3/data/data42/'
+PATH_TO_DATA41 = '/data/sdc/course/project3/data/data41/'
+PATH_TO_DATA42 = '/data/sdc/course/project3/data/data42/'
 
-PATH_TO_DATA44 = '/data/self-driving-car/course/project3/data/data44/'
-PATH_TO_DATA45 = '/data/self-driving-car/course/project3/data/data45/'
+PATH_TO_DATA44 = '/data/sdc/course/project3/data/data44/'
+PATH_TO_DATA45 = '/data/sdc/course/project3/data/data45/'
 
-PATH_TO_DATA51 = '/data/self-driving-car/course/project3/data/data51/'
+PATH_TO_DATA51 = '/data/sdc/course/project3/data/data51/'
 
-PATH_TO_DATA61 = '/data/self-driving-car/course/project3/data/data61/'
-PATH_TO_DATA62 = '/data/self-driving-car/course/project3/data/data62/'
+PATH_TO_DATA61 = '/data/sdc/course/project3/data/data61/'
+PATH_TO_DATA62 = '/data/sdc/course/project3/data/data62/'
 
-PATH_TO_DATA63 = '/data/self-driving-car/course/project3/data/data63/'
-PATH_TO_DATA64 = '/data/self-driving-car/course/project3/data/data64/'
+PATH_TO_DATA63 = '/data/sdc/course/project3/data/data63/'
+PATH_TO_DATA64 = '/data/sdc/course/project3/data/data64/'
 
-PATH_TO_DATA71 = '/data/self-driving-car/course/project3/data/data71/'
-PATH_TO_DATA72 = '/data/self-driving-car/course/project3/data/data72/'
+PATH_TO_DATA71 = '/data/sdc/course/project3/data/data71/'
+PATH_TO_DATA72 = '/data/sdc/course/project3/data/data72/'
 
-PATH_TO_DATA80 = '/data/self-driving-car/course/project3/data/data80/'
-PATH_TO_DATA81 = '/data/self-driving-car/course/project3/data/data81/'
-PATH_TO_DATA82 = '/data/self-driving-car/course/project3/data/data82/'
-PATH_TO_DATA83 = '/data/self-driving-car/course/project3/data/data83/'
-PATH_TO_DATA84 = '/data/self-driving-car/course/project3/data/data84/'
+PATH_TO_DATA80 = '/data/sdc/course/project3/data/data80/'
+PATH_TO_DATA81 = '/data/sdc/course/project3/data/data81/'
+PATH_TO_DATA82 = '/data/sdc/course/project3/data/data82/'
+PATH_TO_DATA83 = '/data/sdc/course/project3/data/data83/'
+PATH_TO_DATA84 = '/data/sdc/course/project3/data/data84/'
 
 # Track 1
 DATA01 = [PATH_TO_DATA42, {-1: 0.6, 0: 0.1, 1: 0.6}]         # T1, lane

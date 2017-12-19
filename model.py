@@ -7,9 +7,9 @@ from tools.train_history import TrainHistory
 
 network = Network()
 
-#model = network.create_convolutional_nvidia_style_with_regularization_cropping(input_shape=(IMAGE_HEIGHT, IMAGE_WIDTH, 3), num_classes=NUM_CLASSES)
+model = network.create_convolutional_nvidia_style_with_regularization_cropping(input_shape=(IMAGE_HEIGHT, IMAGE_WIDTH, 3), num_classes=NUM_CLASSES)
 #model = network.simple(input_shape=(IMAGE_HEIGHT, IMAGE_WIDTH, 3), num_classes=NUM_CLASSES)
-model = load_model('./models/T6/model-0063-0.0731.h5')
+#model = load_model('./models/T6/model-0063-0.0731.h5')
 # model = load_model('./models/M2/model0003-2.7265-0.1635.h5')
 # model = load_model('./models/M3/model0003-2.6417-0.1656.h5')
 # model = load_model('./models/M4/model0006-2.7040-0.1295.h5')
