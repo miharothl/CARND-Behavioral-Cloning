@@ -28,7 +28,7 @@ All that said, please be concise!  We're not looking for you to write a book her
 
 You're not required to use markdown for your writeup.  If you use another method please just submit a pdf of your writeup.
 
-Link to the [WRITEUP_REPORT](WRITEUP_REPORT.)
+Link to the [WRITEUP_REPORT](WRITEUP_REPORT.md)
 
 The Project
 ---
